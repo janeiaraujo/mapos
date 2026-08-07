@@ -8,7 +8,7 @@ Correções de segurança são publicadas apenas na versão mais recente, a part
 
 | Versão | Suportada |
 | --- | --- |
-| 4.54.x (última release) | ✅ |
+| Última release | ✅ |
 | Versões anteriores | ❌ |
 
 Se você está em uma versão antiga, a orientação é atualizar seguindo as instruções de [Atualização](README.md#atualização) do README.
